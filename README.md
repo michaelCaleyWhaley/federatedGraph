@@ -2,6 +2,10 @@
 
 ## Getting started
 
+### Install Rover
+
+`npm install`
+
 ### Download Apollo route executable
 
 `npm run router`
