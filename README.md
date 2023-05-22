@@ -20,4 +20,4 @@
 
 ## Introspection
 
-Visit `https://studio.apollographql.com/sandbox/explorer/` in browser and enter the local address of the router after running in development mode.
+Visit `https://studio.apollographql.com/sandbox/explorer/` in browser and enter the local address of the router.
